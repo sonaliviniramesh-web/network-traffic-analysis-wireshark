@@ -59,6 +59,8 @@ From this, I understood that:
 - When many requests happen quickly, the traffic becomes dense and fast
 - Multiple domain requests can come from browsing, background services, or tracking systems
 
+In a real SOC environment, such activity would require correlation with endpoint logs and validation of the source to determine whether the behavior is benign or potentially malicious.
+
 In a real-world scenario, patterns like high-frequency requests and unknown domains could require further investigation.
 
 ---
