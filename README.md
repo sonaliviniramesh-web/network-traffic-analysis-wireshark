@@ -61,7 +61,7 @@ From this, I understood that:
 
 In a real SOC environment, such activity would require correlation with endpoint logs and validation of the source to determine whether the behavior is benign or potentially malicious.
 
-In a real-world scenario, the observed activity is likely normal due to user browsing and background services, but similar patterns in unknown environments would require further investigation.
+Based on the observed traffic patterns and known domains, the activity appears consistent with normal browsing behavior. However, the presence of a few uncommon domains highlights the importance of validating domain reputation in real-world investigations.
 
 ---
 
