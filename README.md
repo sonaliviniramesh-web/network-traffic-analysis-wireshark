@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-In this project, I explored how network traffic behaves using Wireshark, with a focus on DNS activity.
+In this project, I analyzed how network traffic behaves using Wireshark, with a focus on DNS activity.
 
 The idea was simple — understand what “normal” traffic looks like, and then observe how things change when there is a sudden increase in activity.
 
