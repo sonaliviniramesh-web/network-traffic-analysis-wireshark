@@ -51,7 +51,7 @@ Instead of just a few websites, I saw requests going to multiple domains includi
 
 ---
 
-## 🔎 My Understanding
+## 🔎 Analysis
 
 From this, I understood that:
 
@@ -61,7 +61,7 @@ From this, I understood that:
 
 In a real SOC environment, such activity would require correlation with endpoint logs and validation of the source to determine whether the behavior is benign or potentially malicious.
 
-In a real-world scenario, patterns like high-frequency requests and unknown domains could require further investigation.
+In a real-world scenario, the observed activity is likely normal due to user browsing and background services, but similar patterns in unknown environments would require further investigation.
 
 ---
 
